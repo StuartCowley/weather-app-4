@@ -4,19 +4,18 @@ This project is built with [Create React App](https://github.com/facebook/create
 
 ## Concepts learned through this excercise
 
-React
-JSX
-Props
-Props validation
-State
-Stateful components
-Stateless (presentational) components
-React Hooks
-React Testing Library
-Request/Response
-Error Handling
+## React
+## JSX
+## Props
+## Props validation
+## State
+## Stateful components
+## Stateless (presentational) components
+## React Hooks
+## React Testing Library
+## Request/Response
+## Error Handling
 
-### `npm start`
 
 
 
