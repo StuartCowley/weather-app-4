@@ -4,8 +4,8 @@ import PropTypes from "prop-types";
 const ForecastSummary = (props) => {
   const { date, temperature, description, icon } = props;
   return (
-    <div>
-      <h2>{`${date},${temperature}, ${description}, ${icon}`}</h2>
+    <div className="forecast-summary">
+      <h2>{`${date}, ${temperature}, ${description}, ${icon}`}</h2>
     </div>
   );
 };
